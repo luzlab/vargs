@@ -1,0 +1,14 @@
+{
+  "name": "vargs",
+  "version": "0.1.1",
+  "description": "variable argument handling for functions taking a callback",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cloudhead/vargs"
+  },
+  "author": "Alexis Sellier",
+  "bugs": {
+    "url": "https://github.com/cloudhead/vargs/issues"
+  },
+  "homepage": "https://github.com/cloudhead/vargs"
+}
